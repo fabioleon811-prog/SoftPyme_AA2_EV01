@@ -1,2 +1,0 @@
-Proyecto: SoftPyme
-Repositorio GitHub: https://github.com/fabioleon811-prog/Primera-versi-n-de-SoftPyme
