@@ -1,2 +1,2 @@
 Proyecto: SoftPyme
-Repositorio GitHub: https://github.com/fabioleon811-prog/Primera-versi-n-de-SoftPyme
+Repositorio GitHub: https://github.com/fabioleon811-prog/SoftPyme_AA2_EV01/blob/main/SoftPyme-AA2-EV01/repositorio.txt
